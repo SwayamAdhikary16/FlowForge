@@ -1,0 +1,6 @@
+google-api-python-client==2.45.0
+mysql-connector-python==8.0.30
+textblob==0.17.1
+matplotlib==3.5.2
+pandas
+python-dotenv
