@@ -18,6 +18,9 @@ This project is designed to build an **ETL (Extract, Transform, Load) pipeline**
 - **Multi-Social Media Support**: Integration with additional platforms such as Facebook, Instagram, and Reddit to gather a more comprehensive understanding of social media engagement.
 - **Advanced Data Visualization**: Build upon the data collected by the pipeline to visualize trends and insights.
 
+### Architecture
+![Architecture Diagram](./architecture.png)
+
 ### Detailed Steps
 
 1. **User Input**: The user provides the YouTube video ID.
