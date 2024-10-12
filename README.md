@@ -19,7 +19,7 @@ This project is designed to build an **ETL (Extract, Transform, Load) pipeline**
 - **Advanced Data Visualization**: Build upon the data collected by the pipeline to visualize trends and insights.
 
 ### Architecture
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./architecture.jpeg)
 
 ### Detailed Steps
 
